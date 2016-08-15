@@ -1,2 +1,4 @@
 # Snipets
-code snipetts
+ - code snipetts
+Only the beginning of anything.
+
